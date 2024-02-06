@@ -1,19 +1,5 @@
-# vue-crash-2021_24
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Clone the project in your local machine and run the following commands:
+  1. copy and paste the ".env.example" file and rename it to ".env" in project directory
+  2. composer install
+  3. php artisan key:generate
+  4. php artisan serve
